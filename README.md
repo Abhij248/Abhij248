@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhij248
 - 👀 I’m interested in music,coffee,coding etc
-- 🌱 I’m currently learning C programming on coursera
+- 🌱 I’m currently learning C programming on coursera, i have previously done a course on bluej(basics).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail at abhinav.jaiswal.eee22@itbhu.ac.in
 
